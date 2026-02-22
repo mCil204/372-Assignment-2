@@ -89,3 +89,20 @@ footer{
     font-size:xx-small;
 }
 
+
+#favorites-summary{
+    background-color: lightgray;
+    padding: 20px;
+    
+}
+
+.dish-price{
+   font-weight: bold;
+   margin: 6px;
+    
+}
+
+.card.favorited{
+    background-color: rgb(212, 247, 147);
+    border: 5px yellow;
+}
